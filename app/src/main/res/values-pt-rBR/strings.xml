@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InvestEasy</string>
+
+    <string name="message_empty_field">Preencha todos os campos</string>
+    <string name="message_zero_field">O valor deve ser maior que 0</string>
+
+    <string name="main_title">InvestEasy</string>
+
+    <string name="main_label_value_received">Valor recebido ao final do investimento</string>
+    <string name="main_value_received">0.0</string>
+    <string name="main_label_income_value">Valor de rendimentos</string>
+    <string name="main_income_value">0.0</string>
+    <string name="main_contribution">Aporte por mês</string>
+    <string name="main_hint_contribution">500,00</string>
+    <string name="main_months">Quantidade de meses</string>
+    <string name="main_hint_months">24</string>
+    <string name="main_fees">Juros</string>
+    <string name="main_hint_fees">1.2</string>
+    <string name="main_reset">Limpar</string>
+    <string name="main_calculate">Calcular</string>
+</resources>
